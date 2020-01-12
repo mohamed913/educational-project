@@ -1,5 +1,3 @@
-{{--@extends('layouts.app')--}}
-
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <!-- Sidebar -->
@@ -35,7 +33,7 @@
                     <a href="#" class="nav-link active">
                         {{--                            <i class="nav-icon fas fa-tachometer-alt"></i>--}}
                         <p>
-                            Teacher
+                            Courses
                             {{--                                <i class="right fas fa-angle-left"></i>--}}
                         </p>
                     </a>
@@ -45,7 +43,7 @@
                     <a href="#" class="nav-link active">
                         {{--                            <i class="nav-icon fas fa-tachometer-alt"></i>--}}
                         <p>
-                            Teacher
+                            Supporter
                             {{--                                <i class="right fas fa-angle-left"></i>--}}
                         </p>
                     </a>
@@ -55,7 +53,7 @@
                     <a href="#" class="nav-link active">
                         {{--                            <i class="nav-icon fas fa-tachometer-alt"></i>--}}
                         <p>
-                            Teacher
+                            students
                             {{--                                <i class="right fas fa-angle-left"></i>--}}
                         </p>
                     </a>
